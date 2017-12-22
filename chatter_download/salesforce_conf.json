@@ -1,0 +1,9 @@
+{
+	"client_id": "3MVG9A2kN3Bn17huxONua276cOhKKVrVlkhXGcJqcE2XgTalsb2qZ0e7r9tzLavy7o_V7AAQG7jKctPLq.qDq",
+	"client_secret": "805249544794237623",
+	"username": "XXX@cbre.co.jp.crm",
+	"password": "XXX",
+	"sandbox": "False",
+	"access_token_url": "https://login.salesforce.com/services/oauth2/token",
+	"access_token_url_sandbox": "https://test.salesforce.com/services/oauth2/token"
+}
